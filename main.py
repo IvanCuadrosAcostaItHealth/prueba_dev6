@@ -33,20 +33,20 @@ async def obtener_data(request: Request):
     return {
         "status": True,
         "data": [
-            {"fecha": "01/01/2025", "sistólica": 120, "diastólica": 80},
-            {"fecha": "02/01/2025", "sistólica": 115, "diastólica": 75},
-            {"fecha": "03/01/2025", "sistólica": 129, "diastólica": 80},
-            {"fecha": "04/01/2025", "sistólica": 135, "diastólica": 90},
-            {"fecha": "05/01/2025", "sistólica": 89, "diastólica": 60},
-            {"fecha": "06/01/2025", "sistólica": 70, "diastólica": 50},
-            {"fecha": "07/01/2025", "sistólica": 120, "diastólica": 80},
-            {"fecha": "08/01/2025", "sistólica": 120, "diastólica": 80},
-            {"fecha": "09/01/2025", "sistólica": 150, "diastólica": 80},
-            {"fecha": "10/01/2025", "sistólica": 160, "diastólica": 90},
-            {"fecha": "11/01/2025", "sistólica": 89, "diastólica": 59},
-            {"fecha": "12/01/2025", "sistólica": 120, "diastólica": 60},
-            {"fecha": "13/01/2025", "sistólica": 120, "diastólica": 55},
-            {"fecha": "14/01/2025", "sistólica": 150, "diastólica": 90},
-            {"fecha": "15/01/2025", "sistólica": 115, "diastólica": 75}
+            {"fecha": "01/01/2025", "sistolica": 120, "diastolica": 80},
+            {"fecha": "02/01/2025", "sistolica": 115, "diastolica": 75},
+            {"fecha": "03/01/2025", "sistolica": 129, "diastolica": 80},
+            {"fecha": "04/01/2025", "sistolica": 135, "diastolica": 90},
+            {"fecha": "05/01/2025", "sistolica": 89, "diastolica": 60},
+            {"fecha": "06/01/2025", "sistolica": 70, "diastolica": 50},
+            {"fecha": "07/01/2025", "sistolica": 120, "diastolica": 80},
+            {"fecha": "08/01/2025", "sistolica": 120, "diastolica": 80},
+            {"fecha": "09/01/2025", "sistolica": 150, "diastolica": 80},
+            {"fecha": "10/01/2025", "sistolica": 160, "diastolica": 90},
+            {"fecha": "11/01/2025", "sistolica": 89, "diastolica": 59},
+            {"fecha": "12/01/2025", "sistolica": 120, "diastolica": 60},
+            {"fecha": "13/01/2025", "sistolica": 120, "diastolica": 55},
+            {"fecha": "14/01/2025", "sistolica": 150, "diastolica": 90},
+            {"fecha": "15/01/2025", "sistolica": 115, "diastolica": 75}
         ]
     }
